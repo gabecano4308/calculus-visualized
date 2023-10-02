@@ -1,6 +1,6 @@
 # Calculus Visualizations Project
 
-Welcome to the Calculus Visualizations project! This repository contains interactive Jupyter notebooks that visualize fundamental calculus concepts using Python and popular libraries like NumPy and Matplotlib. Whether you're a student learning calculus or a curious mind exploring mathematical concepts, these visualizations will help you grasp complex ideas in an intuitive way.
+Welcome to the Calculus Visualizations project! This repository contains interactive Jupyter notebooks that visualize fundamental calculus concepts using Python and popular libraries like NumPy and Matplotlib. Whether you're a student learning calculus or a curious mind exploring mathematical concepts, these notebooks aim to explain complex ideas in an intuitive way.
 
 ## Table of Contents
 
